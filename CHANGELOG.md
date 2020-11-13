@@ -1,5 +1,9 @@
 ## unreleased
 
+### Features
+
+1. [20039](https://github.com/influxdata/influxdb/pull/20039): Export 1.x CQs as part of `influxd upgrade`
+
 ### Bug Fixes
 
 1. [19987](https://github.com/influxdata/influxdb/pull/19987): Fix various typos. Thanks @kumakichi!
